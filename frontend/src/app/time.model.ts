@@ -3,5 +3,5 @@ export interface Time{
     nome:string
     jogo:string;
     vitorias:number;
-    ranking:string
+    rank:string
 }
